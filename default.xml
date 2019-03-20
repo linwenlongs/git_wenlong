@@ -2,6 +2,6 @@
 <manifest>
     <remote name="linwenlongs" fetch="https://github.com/linwenlongs/git_wenlong.git"  />
     <default revision="master" remote="linwenlongs" />
-    <project name="project/project1" path="project/project1"/>
-    <project name="project/project2" path="project/project2"/>
+    <project name="wen" path=""/>
+    <project name="" path=""/>
 </manifest>
