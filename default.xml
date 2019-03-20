@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="linwenlongs" fetch="https://github.com/linwenlongs/git_wenlong.git"  />
-    <default revision="master" remote="linwenlongs" />
+    <remote name="linwenlong" fetch="https://github.com/linwenlongs/git_wenlong.git"  />
+    <default revision="master" remote="linwenlong" />
    
     
 </manifest>
